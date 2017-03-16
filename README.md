@@ -1,9 +1,7 @@
 <title>Quem é o Davi?</title>
 ## Sobre
-Olá, Eu sou o Davi, tenho 26 anos, sou um grande entusiasta da tecnologia, em meu tempo livre gosto de jogar jogos MOBA, atualmente estou jogando Dota 2, também gosto de aprender as novidades que estão surgindo no ramo do desenvolvimento,
+Olá, Eu sou o Davi, tenho 26 anos, sou um grande entusiasta da tecnologia, em meu tempo livre você me verá com meu notebook procurando as novidades que estão surgindo no mundo do desenvolvimento ou também você jogando Dota 2 :). Se você quer seu amigo comece trazendo essas três coisas para mim pizza, chocolate e sorvete e tenho certeza que teremos uma longa amizade, estou sempre tentando me qualificar para o mercado de trabalho me atualizando com as exigências do mercado
 
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
