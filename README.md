@@ -1,6 +1,7 @@
-## Welcome to GitHub Pages
+<title>Quem é o Davi?</title>
+## Sobre
+Olá, Eu sou o Davi, tenho 26 anos, sou um grande entusiasta da tecnologia, em meu tempo livre gosto de jogar jogos MOBA, atualmente estou jogando Dota 2, também gosto de aprender as novidades que estão surgindo no ramo do desenvolvimento,
 
-You can use the [editor on GitHub](https://github.com/daviwesley/daviwesley.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
