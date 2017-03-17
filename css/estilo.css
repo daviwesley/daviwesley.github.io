@@ -37,3 +37,7 @@ body {
   .navbar-nav  li a:hover {
       color: #1abc9c !important;
   }
+
+.navbar-default .navbar-toggle {
+      border-color: transparent;
+  }
