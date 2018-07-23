@@ -3,7 +3,11 @@ body {
       line-height: 1.8;
       color: #f5f6f7;
   }
-  p {font-size: 16px;}
+  p {
+        font-size: 16px;
+        margin-left: 25px;
+        margin-right: 25px;
+  }
   .margin {margin-bottom: 45px;}
   .bg-1 { 
       background-color: #1abc9c; /* Green */
@@ -41,3 +45,9 @@ body {
 .navbar-default .navbar-toggle {
       border-color: transparent;
   }
+
+.h3, h3 {
+    font-size: 24px;
+    /* font-style: italic; */
+    font-weight: bold;
+}
